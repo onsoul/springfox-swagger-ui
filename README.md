@@ -1,13 +1,13 @@
 swagger-ui
 ===============================
 
-自定义机智云风格的RESTful-API文档
+自定义大头兄弟风格的RESTful-API文档
 
 ```
   <dependency>
-        <groupId>com.gizwits</groupId>
+        <groupId>cn.bhbapp.doc</groupId>
         <artifactId>springfox-swagger-ui</artifactId>
-        <version>2.7.0</version>
+        <version>2.8.0</version>
   </dependency>
 
 ```
