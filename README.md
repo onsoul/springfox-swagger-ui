@@ -13,9 +13,9 @@ fork in https://github.com/Bestfeel/springfox-swagger-ui.git
 ```
 	
   <dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger2</artifactId>
-			<version>2.8.0</version>
+		<groupId>io.springfox</groupId>
+		<artifactId>springfox-swagger2</artifactId>
+		<version>2.8.0</version>
   </dependency>
 
   <dependency>
@@ -26,7 +26,7 @@ fork in https://github.com/Bestfeel/springfox-swagger-ui.git
 
 ```
 
-##  ![demo](demo/SwaggerAutoConfiguration.java)
+##  [code demo](demo/SwaggerAutoConfiguration.java)
 
 支持如下8种主题样式
 
