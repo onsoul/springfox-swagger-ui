@@ -19,9 +19,9 @@ fork in https://github.com/Bestfeel/springfox-swagger-ui.git
   </dependency>
 
   <dependency>
-        <groupId>cn.bhbapp.doc</groupId>
+        <groupId>com.github.onsoul</groupId>
         <artifactId>springfox-swagger-ui</artifactId>
-        <version>2.8.0</version>
+        <version>2.8.1</version>
   </dependency>
 
 ```
